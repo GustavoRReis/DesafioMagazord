@@ -1,0 +1,9 @@
+[submodule "RangerShop"]
+	path = RangerShop
+	url = https://github.com/GustavoRReis/RangerShop
+[submodule "ClimaZord"]
+	path = ClimaZord
+	url = https://github.com/GustavoRReis/ClimaZord
+[submodule "TaskZord"]
+	path = TaskZord
+	url = https://github.com/GustavoRReis/taskzord
