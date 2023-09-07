@@ -7,3 +7,9 @@
 [submodule "TaskZord"]
 	path = TaskZord
 	url = https://github.com/GustavoRReis/taskzord
+[submodule "taskZord-flutter"]
+	path = taskZord-flutter
+	url = https://github.com/GustavoRReis/taskZord-flutter
+[submodule "climazord-Flutter"]
+	path = climazord-Flutter
+	url = https://github.com/GustavoRReis/climazord-Flutter
